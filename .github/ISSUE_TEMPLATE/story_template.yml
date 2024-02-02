@@ -5,7 +5,7 @@
 name: "📝 User Story"
 description: Provide a detailed user story including what needs to be done, why, the tasks involved, and the acceptance criteria.
 title: "📝 USER STORY: "
-labels: ["user-story"]
+labels: ["user story"]
 body:
   - type: markdown
     attributes:
